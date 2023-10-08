@@ -1,0 +1,25 @@
+.notifybadge{
+    position: absolute;
+    background: rgb(195, 255, 0);
+    height:2rem;
+    top:1rem;
+    right:1rem;
+    width:3rem;
+    text-align: center;
+    /* line-height: 1rem;; */
+    font-size: 1rem;
+    border-radius: 40px;
+    color:black;
+    border:1px solid blue;
+}
+
+img{
+    width: 100px;
+    height: 200px;
+}
+
+.card{
+    width: auto;
+    padding: 20px;
+    margin: 20px;
+}
